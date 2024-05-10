@@ -16,7 +16,8 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    # url: /cv/
+    url: lorhzy09/lorettahzy.github.io/files/hu-loretta-resume.pdf
     
   - title: "Guide"
     url: /markdown/
