@@ -21,7 +21,7 @@ repository               : "lorhzy09/lorettahzy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "LorettaHu.png"
+  avatar           : images/LorettaHu.png
   name             : "Loretta Hu"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
